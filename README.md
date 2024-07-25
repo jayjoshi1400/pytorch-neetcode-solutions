@@ -1,2 +1,5 @@
-# pytorch-ML-coding
-Solutions to Neetcode's ML section's problems
+# pytorch-neetcode-solutions
+
+Solutions to neetcode's ML practice problems in pytorch
+
+Questions: https://neetcode.io/practice
