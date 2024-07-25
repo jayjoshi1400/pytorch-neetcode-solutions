@@ -1,3 +1,5 @@
+# https://neetcode.io/problems/linear-regression-forward
+
 import numpy as np
 from numpy.typing import NDArray
 
